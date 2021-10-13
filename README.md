@@ -16,7 +16,7 @@ yarn install
 ## Usage
 
 ```sh
-rn start
+yarn start
 ```
 
 ## Author
@@ -24,7 +24,7 @@ rn start
 👤 **Venkat Kumar**
 
 * Github: [@venkatkumar1810](https://github.com/venkatkumar1810)
-* LinkedIn: [@Venkat Kumar Y](https://linkedin.com/in/Venkat Kumar Y)
+* LinkedIn: [@Venkat Kumar Y](https://linkedin.com/in/venkat-kumar-yenumula)
 
 ## Show your support
 
