@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42278288299",
+    "project_id": "swiller-rn",
+    "storage_bucket": "swiller-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42278288299:android:138c84034f6f71e5c9f0ee",
+        "android_client_info": {
+          "package_name": "com.venkat.venky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42278288299-ec5n3leo5732n9i4k9oc22jbd51bq3oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDg7DcuJK0Eo3LHXi9aGvrUpvKT3cUvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42278288299-ec5n3leo5732n9i4k9oc22jbd51bq3oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
