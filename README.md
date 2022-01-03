@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Swiller is a mobile based application that automates the services provided by a restaurant. The services includes table reservation and ordering food and generate bills.
+> Swiller is a mobile based application that automates the services provided by a restaurant.. The services includes table reservation and ordering food and generate bills.
 
 ### 🏠 [Homepage](Swiller is a mobile based application that automates the services provided by a restaurant. The services includes table reservation and ordering food and generate bills.)
 
